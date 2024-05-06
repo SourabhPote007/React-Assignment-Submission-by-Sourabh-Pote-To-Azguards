@@ -1,3 +1,20 @@
+Dear Hiring Manager And Team Of Azguareds,
+  My self sourabh pote i am happy to share this react assignment solutions of weather application that i have successfully compeleted as per given tasks with code quality,a good user experience and responsive design for devices.Thanks for giving me this opportunity to work on this assignment and i gave my best to the task is given to me and surely i will do the same for any project that is given to me.I aslo work well both as an individual contributor and a team member that is i have multiple solo and team projects.
+    After reviewing my work i hope that you will agree that i am the type of compentent and competetive candidate yor are looking for And I look forward to elaborating on how my specific skill and abilies will benefit youre organisation please contact me at sourabhpote007@gmail.com to arrange for a convenient meeting time.Thank you for considering and i look forword to hearing from you soon.
+
+# Important Note - 
+# There is no api that provide current hourly,daily forecast And zip Code in free.IF we won't that Api we have to subscribe.Thank you
+# This is a separate subscription plan, which includes only One Call API.
+# Subscribe 3.0 (https://api.openweathermap.org/data/3.0/onecall?lat=33.44&lon=-94.04&exclude=hourly,daily&appid={API key})
+# After Subscibition It Will Share The Zip Code as well as Hourly And Daily Forecast.
+
+# Application hosted Link - https://react-assignment-submission-by-sourabh.onrender.com
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
